@@ -48,10 +48,3 @@ Foram criadas queries que demonstram:
 2. Importe/execute o script DDL para criar o esquema.  
 3. Execute o DML para popular com dados de exemplo.  
 4. Rode as queries de DQL para gerar relatórios e validar as regras de negócio.
-
----
-
-Se quiser, posso:
-- Limpar e separar o script SQL em arquivos DDL/DML/DQL prontos para execução;
-- Gerar um diagrama ER a partir do schema;
-- Traduzir ou adaptar o projeto para outro SGBD (PostgreSQL, SQLite, etc.).
